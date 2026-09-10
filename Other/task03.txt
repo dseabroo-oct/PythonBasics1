@@ -1,0 +1,1 @@
+﻿After the Git commit the branch reflects the Git commits of task01 and task02.
